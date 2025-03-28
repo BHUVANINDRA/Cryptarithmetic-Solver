@@ -1,0 +1,10 @@
+ Dependencies for Cryptarithmetic Solver
+
+No external dependencies required for the basic solver.
+ If additional features (like a GUI or advanced solvers) are added,
+ relevant libraries should be listed here.
+
+ Example (if needed in the future):
+ numpy
+ pandas
+
