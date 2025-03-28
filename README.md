@@ -26,6 +26,3 @@ python solver.py
 Modify the equation in the script to solve different puzzles.
 
 
-Contributing
-Feel free to fork and contribute via pull requests.
-
